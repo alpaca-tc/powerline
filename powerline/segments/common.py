@@ -314,8 +314,8 @@ temp_conversions = {
 
 # Note: there are also unicode characters for units: ℃, ℉ and  K
 temp_units = {
-	'C': '°C',
-	'F': '°F',
+	'C': 'C',
+	'F': 'F',
 	'K': 'K',
 }
 
