@@ -292,18 +292,18 @@ weather_conditions_codes = (
 # ('sunny',  (32, 36)),
 # ('night',  (31, 33))):
 weather_conditions_icons = {
-	'day':           '〇',
-	'blustery':      '⚑',
-	'rainy':         '☔',
-	'cloudy':        '☁',
-	'snowy':         '❅',
-	'stormy':        '☈',
-	'foggy':         '〰',
-	'sunny':         '☼',
-	'night':         '☾',
-	'windy':         '☴',
-	'not_available': '�',
-	'unknown':       '⚠',
+	'day':           '日',
+	'blustery':      '風',
+	'rainy':         '雨',
+	'cloudy':        '曇',
+	'snowy':         '雪',
+	'stormy':        '嵐',
+	'foggy':         '霧',
+	'sunny':         '晴',
+	'night':         '夜',
+	'windy':         '暴風',
+	'not_available': '×',
+	'unknown':       '？',
 }
 
 temp_conversions = {
